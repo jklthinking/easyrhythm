@@ -5,15 +5,17 @@ license: MIT
 metadata:
   author: 503496348-ops
   version: 1.0.0
-triggers:
-  - "客服"
-  - "意图分类"
-  - "实体抽取"
-  - "智能客服"
-  - "easyrhythm"
 ---
 
 # EasyRhythm — 松弛有度智能客服
+
+## 触发条件
+
+- "客服"
+- "意图分类"
+- "实体抽取"
+- "智能客服"
+- "easyrhythm"
 
 航空客服场景的意图分类 + 实体抽取 + FastAPI 服务端。
 
