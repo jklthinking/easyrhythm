@@ -1,6 +1,10 @@
 ---
 name: easyrhythm
 description: "松弛有度智能客服 — 意图分类、实体抽取、FastAPI 服务"
+license: MIT
+metadata:
+  author: 503496348-ops
+  version: 1.0.0
 triggers:
   - "客服"
   - "意图分类"
